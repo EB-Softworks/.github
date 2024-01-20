@@ -1,5 +1,3 @@
-# 👨🏽‍💻 EB Softworks™
-
 ## Current Projects:
 * Client Config
 
