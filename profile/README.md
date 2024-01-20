@@ -3,7 +3,7 @@
 ## Current Projects:
 * Client Config
 
-## Abonded Projects:
+## Abandoned Projects:
 * Utility
 * Utility D
 * RoCord 
