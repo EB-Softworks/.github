@@ -1,7 +1,6 @@
 ## Current Projects:
-* [Client Config](https://github.com/EB-Softworks/Client-Config)
 
 ## Abandoned Projects:
-* Utility
-* Utility D
+* Utility *[Formally owned by Utility Softworks]*
+* Utility D *[Formally owned by Utility Softworks]*
 * RoCord 
